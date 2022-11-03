@@ -102,9 +102,45 @@ i {
     margin: 5%;
 }
 
+/* Content */
+
+#Content {
+    margin: 2% 15% 7% 15%;
+    text-align: center;
+}
+
+#Content .imageContent {
+    width: 80%;
+    margin: 5%;
+}
+
+#Content .row {
+    margin-top: 5%;
+}
+
+#Content #carouselExampleIndicators {
+    width: 70%;
+    margin-bottom: 5%;
+}
+
+#Content #carouselExampleIndicators2 {
+    width: 70%;
+    margin-bottom: 5%;
+}
+
+#Content #carouselExampleIndicators3 {
+    width: 70%;
+    margin-bottom: 5%;
+}
+
+#Content h2 {
+    color: #008f11;
+}
+
 /* iframe */
 
 .container {
+    margin-top: 5%;
     position: relative;
     overflow: hidden;
     width: 100%;
@@ -132,6 +168,18 @@ i {
     .iframe {
         width: 480px;
         height: 360px;
+    }
+
+    #Content #carouselExampleIndicators {
+        width: 100%;
+    }
+
+    #Content #carouselExampleIndicators2 {
+        width: 100%;
+    }
+
+    #Content #carouselExampleIndicators3 {
+        width: 100%;
     }
 
 
