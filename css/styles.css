@@ -133,6 +133,16 @@ i {
     margin-bottom: 5%;
 }
 
+#Content #carouselExampleIndicators4 {
+    width: 70%;
+    margin-bottom: 5%;
+}
+
+#Content #carouselExampleIndicators5 {
+    width: 70%;
+    margin-bottom: 5%;
+}
+
 #Content h2 {
     color: #008f11;
 }
@@ -179,6 +189,14 @@ i {
     }
 
     #Content #carouselExampleIndicators3 {
+        width: 100%;
+    }
+
+    #Content #carouselExampleIndicators4 {
+        width: 100%;
+    }
+
+    #Content #carouselExampleIndicators5 {
         width: 100%;
     }
 
